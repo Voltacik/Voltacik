@@ -11,9 +11,9 @@
   "currently_learning": ["Advanced bot infrastructures", "Web development", "Databases"],
   "collaboration": ["Discord bot projects", "API-based systems", "Open-source contributions"],
   "contact": {
-    "Discord": "Voltacik#XXXX",
-    "Email": "your-email@example.com",
-    "Twitter": "your-twitter-handle"
+    "Discord": "Voltacik",
+    "Email": "tosberat284@gmail.com",
+    "İnstagram": "bedelvolta"
   },
   "fun_fact": "Most of my bots are named after coffee varieties! ☕"
 }
