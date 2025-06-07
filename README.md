@@ -61,7 +61,7 @@
 
 ---
 <p align="center">
-  <img serc=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRtb203a3BxajFodmY4bzNiZHhvcDhqMDF2YnNxOWY3NmU0czg1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/enSaI18liVdTY2YRw8/giphy.gif" width="600" alt="Terminal Animation" />
+  <img serc="https://giphy.com/embed/enSaI18liVdTY2YRw8" width="600" alt="Terminal Animation" />
 </p>  
 
 
